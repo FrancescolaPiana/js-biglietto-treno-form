@@ -1,0 +1,9 @@
+
+#costtxt::after{
+    content: " \20AC";
+}
+
+#kmtxt::after{
+    content: " Km";
+}
+
